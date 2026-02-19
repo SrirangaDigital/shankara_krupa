@@ -43,21 +43,21 @@
 			<li class="nav-item">
 			  <a class="nav-link active" aria-current="page" href="<?php echo $base_url; ?>index.php">ಮುಖಪುಟ</a>
 			</li>
-			<li class="nav-item">
+			<!-- <li class="nav-item">
 			  <a class="nav-link" href="#">ಒಳನೋಟ</a>
-			</li>
-			<li class="nav-item">
+			</li> -->
+			<!-- <li class="nav-item">
 			  <a class="nav-link" href="#">ಸಂಪಾದಕರು</a>
-			</li>
+			</li> -->
 			<li class="nav-item dropdown">
           		<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             		ಸಂಗ್ರಹ
           		</a>
 		          <ul class="dropdown-menu bg-body-tertiary">
-		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/volumes.php">ಸಂಪುಟಗಳು</a></li>
-		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/articles.php">ಲೇಖನಗಳು</a></li>
-		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/authors.php">ಲೇಖಕರು</a></li>
-		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/features.php">ಸ್ಥಿರ ಶೀರ್ಷಿಕೆಗಳು</a></li>
+		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/volumes.php">&nbsp;&nbsp;&nbsp;&nbsp; ಸಂಪುಟಗಳು | Volumes</a></li>
+		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/articles.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ಲೇಖನಗಳು | Articles</a></li>
+		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/authors.php">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ಲೇಖಕರು  | Authors</a></li>
+		            <li><a class="dropdown-item" href="<?php echo $base_url; ?>php/features.php">ಸ್ಥಿರ ಶೀರ್ಷಿಕೆಗಳು | Features</a></li>
 		          </ul>
         	</li>
 			<li class="nav-item">
