@@ -4,6 +4,7 @@
 		<div class="headbanner">
 			<div class="parallax-content">
 				<p class="fKan" style="font-size: 20px;line-height: 1.5;">ನಂದಂತಿ ಯತ್ಪ್ರಸಾದೇನ ಸುರಾಸುರನರಾದಯಃ ।<br />ಸರ್ವೇ ಭಜಂತು ನಿತ್ಯಂ ತಾಂ<br /><span style="color: #8B0000;font-size: 40px;">ಶ್ರೀ ಶಂಕರಕೃಪಾಂ</span><br />ಶುಭಾಮ್ ॥<br /><br /><br /><br />&nbsp;</p>
+				<p class="fKan"  style="font-size: 25px;line-height: 1.5; color: #8B0000;"><a href="php/img/subscribe.jpg">ಚಂದಾದಾರಿಕೆ ಮಾಹಿತಿ</a></p>
 <!-- 				<img src="php/img/logo.gif" alt="" />
 				<h3>The Archive</h3> -->
 			</div>
