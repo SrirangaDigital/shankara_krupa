@@ -7239,7 +7239,10 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="13" month="10" year="1974" maasa="ಆಶ್ವಯುಜ" samvatsara="ಆನಂದ">
+		
+	</volume>
+	<volume vnum="010">
+		<part pnum="01" month="10" year="1974" maasa="ಆಶ್ವಯುಜ" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಶಾರದಾಂಬಾ ಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7322,9 +7325,7 @@
 				</allauthors>
 			</entry>
 		</part>
-	</volume>
-	<volume vnum="010">
-		<part pnum="01" month="11" year="1974" maasa="ಕಾರ್ತಿಕ" samvatsara="ಆನಂದ">
+		<part pnum="02" month="11" year="1974" maasa="ಕಾರ್ತಿಕ" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಹೇರಂಬಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7390,7 +7391,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" month="12" year="1974" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಆನಂದ">
+		<part pnum="03" month="12" year="1974" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -7523,7 +7524,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" month="01" year="1975" maasa="ಪುಷ್ಯ" samvatsara="ಆನಂದ">
+		<part pnum="04" month="01" year="1975" maasa="ಪುಷ್ಯ" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಶ್ರೀ ಶಾರದಾಂಬಾ ಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7641,7 +7642,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" month="02" year="1975" maasa="ಮಾಘ" samvatsara="ಆನಂದ">
+		<part pnum="05" month="02" year="1975" maasa="ಮಾಘ" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಶ್ರೀ ದಕ್ಷಿಣಾಮೂರ್ತಿ ಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7752,7 +7753,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="05" month="03" year="1975" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಆನಂದ">
+		<part pnum="06" month="03" year="1975" maasa="ಫಾಲ್ಗುಣ" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಶ್ರೀ ಶಂಕರಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -7851,7 +7852,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="06" month="04" year="1975" maasa="ಚೈತ್ರ" samvatsara="ರಾಕ್ಷಸ">
+		<part pnum="07" month="04" year="1975" maasa="ಚೈತ್ರ" samvatsara="ರಾಕ್ಷಸ">
 			<entry>
 				<title>ಶುಭ ಶಂಸನಮ್</title>
 				<feature></feature>
@@ -7951,7 +7952,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="07" month="05" year="1975" maasa="ವೈಶಾಖ" samvatsara="ರಾಕ್ಷಸ">
+		<part pnum="08" month="05" year="1975" maasa="ವೈಶಾಖ" samvatsara="ರಾಕ್ಷಸ">
 			<entry>
 				<title>ತ್ರೀ ಶಂಕರಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -14754,7 +14755,10 @@
 				<allauthors />
 			</entry>
 		</part>		
-		<part pnum="13" month="10" year="1982" maasa="ಆಶ್ವಯುಜ" samvatsara="ದುಂದುಭಿ">
+		
+	</volume>
+	<volume vnum="018">
+		<part pnum="01" month="10" year="1982" maasa="ಆಶ್ವಯುಜ" samvatsara="ದುಂದುಭಿ">
 			<entry>
 				<title>ಪಾದಾವಲಂಬನಸ್ತುತಿಃ</title>
 				<feature></feature>
@@ -14829,8 +14833,6 @@
 				</allauthors>
 			</entry>
 		</part>
-	</volume>
-	<volume vnum="018">
 		<part pnum="02" month="11" year="1982" maasa="ಕಾರ್ತಿಕ" samvatsara="ದುಂದುಭಿ">
 			<entry>
 				<title>ಪಾದಾವಲಂಬನಸ್ತುತಿಃ</title>
@@ -21320,6 +21322,102 @@
 				<allauthors />
 			</entry>
 		</part>
+		<part pnum="03" month="12" year="1990" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಪ್ರಮೋದ">
+			<entry>
+				<title>ಪ್ರಾರ್ಥನೆ</title>
+				<feature></feature>
+				<page>0000e-0000f</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ - ಗೀತಾಜಯಂತಿಯ ಉದ್ದೇಶ</title>
+				<feature></feature>
+				<page>0001-0004</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
+				<feature></feature>
+				<page>0005-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಕೃಪಾವಲಂಬನ ಸ್ತುತಿಃ</title>
+				<feature></feature>
+				<page>0009-0012-</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ಆತ್ಮಾಸ್ತಿತ್ವಂ</title>
+				<feature></feature>
+				<page>0013-0016</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹ ಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಅದ್ವೈತ ದರ್ಶನ</title>
+				<feature></feature>
+				<page>0017-0020</page>
+				<allauthors>
+					<author type="1" title="ಡಾ॥">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ಮದಪ್ಪಯ್ಯ ದೀಕ್ಷೀತೇಂದ್ರ ವಿರಚಿತಂ ಮಧ್ವತಂತ್ರ ಮುಖ ಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೧೪)</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರ ಶಾಸ್ತ್ರೀ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ವಿಜ್ಞಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮ</title>
+				<feature></feature>
+				<page>0025-0028</page>
+				<allauthors>
+					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಮಹಾಭಾರತದ ಉಪಾಖ್ಯಾನಗಳು ಉತ್ತಂಕ:</title>
+				<feature></feature>
+				<page>0029-0032</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
+				<feature></feature>
+				<page>0033-0036</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
+				<feature></feature>
+				<page>0037-0038</page>
+				<allauthors>
+					<author type="1" title="ಶ್ರೀ ಕವಿ">ನರಸಿಂಹ ಶರ್ಮಾ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಪುಸ್ತಕ ವಿಮರ್ಶೆ</title>
+				<feature></feature>
+				<page>0039-0042</page>
+				<allauthors>
+					<author type="1" title="ಪ್ರೊ.">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ಶೃಂಗೇರಿಯಲ್ಲಿ ಅತಿರುದ್ರಯಾಗ ಮತ್ತು ಸಹಸ್ರಚಂಡೀಯಾಗ </title>
+				<feature></feature>
+				<page>0043-0044</page>
+				<allauthors />
+			</entry>
+		</part>
 		<part pnum="04" month="01" year="1991" maasa="ಪುಷ್ಯ" samvatsara="ಪ್ರಮೋದ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
@@ -21758,104 +21856,6 @@
 				<allauthors>
 					<author type="1" title="">ಸಂಪಾದಕರು</author>
 				</allauthors>
-			</entry>
-		</part>
-	</volume>
-	<volume vnum="027">
-		<part pnum="03" month="12" year="1990" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ಪ್ರಮೋದ">
-			<entry>
-				<title>ಪ್ರಾರ್ಥನೆ</title>
-				<feature></feature>
-				<page>0000e-0000f</page>
-				<allauthors />
-			</entry>
-			<entry>
-				<title>ಶ್ರೀ ಶ್ರೀ ಜಗದ್ಗುರು ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶ - ಗೀತಾಜಯಂತಿಯ ಉದ್ದೇಶ</title>
-				<feature></feature>
-				<page>0001-0004</page>
-				<allauthors />
-			</entry>
-			<entry>
-				<title>ಜಗದ್ಗುರು ಶ್ರೀ ಶ್ರೀ ಭಾರತೀತೀರ್ಥ ಮಹಾಸ್ವಾಮಿಗಳ ಉಪದೇಶಾಮೃತ</title>
-				<feature></feature>
-				<page>0005-0008</page>
-				<allauthors />
-			</entry>
-			<entry>
-				<title>ಶ್ರೀ ಜಗದ್ಗುರು ಕೃಪಾವಲಂಬನ ಸ್ತುತಿಃ</title>
-				<feature></feature>
-				<page>0009-0012-</page>
-				<allauthors />
-			</entry>
-			<entry>
-				<title>ಆತ್ಮಾಸ್ತಿತ್ವಂ</title>
-				<feature></feature>
-				<page>0013-0016</page>
-				<allauthors>
-					<author type="1" title="ಶ್ರೀ ಶೃಂಗಗಿರಿ ಕವಿ">ನರಸಿಂಹ ಶರ್ಮಾ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಅದ್ವೈತ ದರ್ಶನ</title>
-				<feature></feature>
-				<page>0017-0020</page>
-				<allauthors>
-					<author type="1" title="ಡಾ॥">ನರಸಿಂಹಮೂರ್ತಿ ಎಂ. ಎಲ್.</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಶ್ರೀ ಮದಪ್ಪಯ್ಯ ದೀಕ್ಷೀತೇಂದ್ರ ವಿರಚಿತಂ ಮಧ್ವತಂತ್ರ ಮುಖ ಮರ್ದನಮ್-(ಮುಂದುವರೆದುದು-೧೪)</title>
-				<feature></feature>
-				<page>0021-0024</page>
-				<allauthors>
-					<author type="2" title="ವಿದ್ವಾನ್">ಸೂರಿ ರಾಮಚಂದ್ರ ಶಾಸ್ತ್ರೀ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ವಿಜ್ಞಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮ</title>
-				<feature></feature>
-				<page>0025-0028</page>
-				<allauthors>
-					<author type="1" title="ವಿದ್ವಾನ್">ರಂಗನಾಥಶರ್ಮಾ ಎನ್.</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಮಹಾಭಾರತದ ಉಪಾಖ್ಯಾನಗಳು ಉತ್ತಂಕ:</title>
-				<feature></feature>
-				<page>0029-0032</page>
-				<allauthors>
-					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಲಕ್ಷ್ಮೀ ಬಿ. ಜಿ.</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಶ್ರೀ ರಾಮಾಯಣ-ಒಂದು ಅಧ್ಯಯನ</title>
-				<feature></feature>
-				<page>0033-0036</page>
-				<allauthors>
-					<author type="1" title="ಶ್ರೀಮತಿ">ಶ್ರೀಮತೀ ಡಿ.</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಒಂದು ಪ್ರತಿಕ್ರಿಯೆ</title>
-				<feature></feature>
-				<page>0037-0038</page>
-				<allauthors>
-					<author type="1" title="ಶ್ರೀ ಕವಿ">ನರಸಿಂಹ ಶರ್ಮಾ</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಪುಸ್ತಕ ವಿಮರ್ಶೆ</title>
-				<feature></feature>
-				<page>0039-0042</page>
-				<allauthors>
-					<author type="1" title="ಪ್ರೊ.">ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ ಎನ್.</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>ಶೃಂಗೇರಿಯಲ್ಲಿ ಅತಿರುದ್ರಯಾಗ ಮತ್ತು ಸಹಸ್ರಚಂಡೀಯಾಗ </title>
-				<feature></feature>
-				<page>0043-0044</page>
-				<allauthors />
 			</entry>
 		</part>
 		<part pnum="09" month="06" year="1991" maasa="ಜ್ಯೇಷ್ಠ" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
@@ -30353,7 +30353,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="12" month="12" year="2001" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ವಿಕ್ರಮ">
+		<part pnum="12" month="12" year="2000" maasa="ಮಾರ್ಗಶಿರ" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature></feature>
@@ -35990,7 +35990,7 @@
 		</part>
 	</volume>
 	<volume vnum="042">
-		<part pnum="01" month="01" year="2004" maasa="ಪುಷ್ಯ" samvatsara="ತಾರಣ">
+		<part pnum="01" month="01" year="2005" maasa="ಪುಷ್ಯ" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಸೂಕ್ತಿ ಸೌರಭ</title>
 				<feature></feature>
